@@ -6,13 +6,19 @@
 
 
 ## Happiness and its factors
-### Reason the topic was selected
-It came down to this: if we were going to be working on a difficult and heady project, we at least wanted to be studying something that brought joy. We explored pets, Disneyland, beer, until ultimately, we landed on happiness itself. 
+### Reason our topic was selected
+It came down to this: if we were going to be working on a difficult and heady project, we at least wanted to study something that brought joy to our work. We explored pets, beer, and even Disneyland for starters, until ultimately we landed on the subject of happiness itself. And the results found––well, they made us happy.
 
+### Selected Topic 
+**“Many things of value in life cannot be fully captured by [money], but they can be measured by metrics of health, education, political freedom, and the like.”** Enter: happiness as a universal measurement of a country’s value, Gross National Happiness (GNH).  
 ### Questions to Answer
 **The main question is:**
+What contributes to someone’s happiness, to what degree, and how does that look globally?
+
+We are analyzing the proven elements of happiness on a worldwide stage to discover the extent in which they affect GNH, then draw conclusions about what happiness looks like on a global scale
 
 **We also plan to explore:**
+Using *World Census Data*, we would like to further investigate factors that influence, affect, or determine how individuals determine their ladder score response at the granular level. What individual differences shape a respondent’s perspective and thus could also affect a country's ranking? 
 
 ## Data Exploration
 ### Where the data came from
