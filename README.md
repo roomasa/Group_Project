@@ -131,7 +131,7 @@ We are utilizing GitHub for branch commits, Google Drive for project management/
 
 •	Description of the tools that will be used to create final dashboard
 
-•	Description of interactive element(s)
+•	Description of interactive element(s) - Using PowerBI to embed within the website
 
 
 
