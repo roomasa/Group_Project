@@ -102,11 +102,13 @@ Since the happiness score is a score that is assigned to a country, and we had h
 The best educated guess of how to respond to this is that because it’s an unsupervised model, there was not training and testing because there is no data with which to train with.
 
 ### Dashboard
-  • <Storyboard: Nicole>
-  • The Dashboard will be presented via an HTML page using JavaScript in VS Code
-  • Interactive element will include a global map that displays countries in order of happiness ranking. When a country is selected from the menu it will be highlighted within the map. Additional static elements include charts and graphs to display demographic data. 
-    •	<Website: Roomasa Channa>
-    • Using PowerBI or Tableau to embed within the website
+  • Dashboard MockUp 
+  ![](https://github.com/NAppazeller/Group_Project/blob/Data_Viz/DashBoard%20MockUp1.jpg)
+
+  • The Dashboard will be presented via an HTML page using JavaScript in VS Code\
+  • Interactive element will include a global map that displays countries in order of happiness ranking. When a country is selected from the menu it will be highlighted within the map. Additional static elements include charts and graphs to display demographic data.\
+    •	<Website: Roomasa Channa>\
+    • PowerBI or Tableau will be used to embed elements within the website\
 
 ## Team Communication Protocol
 
