@@ -103,10 +103,10 @@ The best educated guess of how to respond to this is that because it’s an unsu
 
 ### Dashboard
   • <Storyboard: Nicole>
-  • <Description of the tools that will be used to create final dashboard: Nicole>
-  • <Description of interactive element(s): Nicole>
-    •	<Website: Nicole>
-    • Using PowerBI to embed within the website
+  • The Dashboard will be presented via an HTML page using JavaScript in VS Code
+  • Interactive element will include a global map that displays countries in order of happiness ranking. When a country is selected from the menu it will be highlighted within the map. Additional static elements include charts and graphs to display demographic data. 
+    •	<Website: Roomasa Channa>
+    • Using PowerBI or Tableau to embed within the website
 
 ## Team Communication Protocol
 
