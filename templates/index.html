@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happiness Prediction</title>
+</head>
+<body>
+    <img src=
+    "https://www.amazon.com/Dimple-Stein-Beer-Mug-Pack/dp/B00V5F2G5G"
+             alt="beer image", width="400", height="150", style="float:left">
+    
+    <img src=
+    "https://images.app.goo.gl/qwyoUDMgxpYpqNLj8"
+             alt="beer image", width="200", height="70", style="float:right">
+    
+    <style>
+    body {
+      background-image: url("https://www.avancecare.com/wp-content/uploads/2019/02/pexels-photo-1638349-1080x675.jpeg");
+      background-position: 200%;
+      background-size: cover;
+    }
+    </style>
+ <div class="login">
+	<h1>Predict Happinesss</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+      <input type="text" name="brewery_id" placeholder="Brewery ID" required="required" />
+    	<input type="text" name="review_aroma" placeholder="Beer Aroma" required="required" />
+      <input type="text" name="review_appearance" placeholder="Beer appearance" required="required" />
+      <input type="text" name="review_palate" placeholder="Beer Palate" required="required" />
+		  <input type="text" name="review_taste" placeholder="Beer Taste" required="required" />
+      <input type="text" name="beer_abv" placeholder="Beer ABV Value" required="required" />
+      <input type="text" name="beer_style" placeholder="Beer Style" required="required" />
+      <input type="text" name="beer_name" placeholder="Beer Name" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{prediction_text}}
+
+ </div>
+      
+</body>
+</html>
